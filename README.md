@@ -6,7 +6,15 @@ Um universo de conhecimento em um só lugar. Explore, aprenda e mergulhe na dive
 
 ## Sumário
 
-- [Hardwares e Softwares](./Hardwares_e_Softwares/README.md)
-- [Sistemas Operacionais](./Sistemas_Operacionais/README.md)
-- [Programação](./Programacao/README.md)
+- > Tecnologias da Informação
+  - [Linguagens de Programação](./Hardwares_e_Softwares/README.md)
+    - [JavaScript]
+      - [ReactJS]
+      - [Node.js]
+      - [ORM Prisma]
+    - [Dart]
+      - [Flutter]
+    - [Outras Linguagens]
+  - [Sistemas Operacionais](./Sistemas_Operacionais/README.md)
+  - [Ferramentas de Desenvolvimento](./Programacao/README.md)
 
