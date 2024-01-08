@@ -10,5 +10,5 @@ Neste diretório, explore informações sobre hardware e software, desde conceit
 - [Princípios de Software](link_para_principios_software/README.md)
 - [Evolução Tecnológica](link_para_evolucao_tecnologica/README.md)
 
-[<< Voltar para WildStacks](../README.md) | [^ Voltar ao Sumário](#sumário)
+[<< WildStacks](../README.md) | [^ Sumário](#sumário)
 
