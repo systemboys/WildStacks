@@ -6,15 +6,24 @@ Um universo de conhecimento em um só lugar. Explore, aprenda e mergulhe na dive
 
 ## Sumário
 
-- > Tecnologias da Informação
-  - [Linguagens de Programação](./Hardwares_e_Softwares/README.md)
-    - [JavaScript]
-      - [ReactJS]
-      - [Node.js]
-      - [ORM Prisma]
-    - [Dart]
-      - [Flutter]
-    - [Outras Linguagens]
+- [Tecnologias da Informação](#)
+  - [Linguagens de Programação](./Linguagens_de_Programacao/README.md)
+    - [JavaScript](#)
+      - [ReactJS](#)
+      - [Node.js](#)
+      - [ORM Prisma](#)
+    - [Dart](#)
+      - [Flutter](#)
+    - [Outras Linguagens](#)
+  - [Hardwares e Softwares](./Hardwares_e_Softwares/README.md)
+    - [Componentes de Hardware](#)
+    - [Softwares de Sistema](#)
+    - [Drivers e Firmware](#)
   - [Sistemas Operacionais](./Sistemas_Operacionais/README.md)
-  - [Ferramentas de Desenvolvimento](./Programacao/README.md)
-
+    - [Linux](#)
+    - [Windows](#)
+  - [Ferramentas de Desenvolvimento](#)
+    - [Visual Studio Code](#)
+    - [Beekeeper Studio](#)
+    - [Insomnia](#)
+    - [Outras Ferramentas](#)
