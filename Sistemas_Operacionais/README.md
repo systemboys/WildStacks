@@ -1,6 +1,6 @@
 # Sistemas Operacionais
 
-![Imagem Sistemas Operacionais](link_para_sua_imagem_sistemas_operacionais)
+![Imagem Sistemas Operacionais](./images/capa-sistemas-operacionais-conceito-estrutura.png)
 
 Explore os principais sistemas operacionais e suas funcionalidades neste diretório.
 

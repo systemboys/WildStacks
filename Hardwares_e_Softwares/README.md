@@ -1,6 +1,6 @@
 # Hardwares e Softwares
 
-![Imagem Hardwares e Softwares](link_para_sua_imagem_hardwares_softwares)
+![Imagem Hardwares e Softwares](./images/POST_MAT.jpg)
 
 Neste diretório, explore informações sobre hardware e software, desde conceitos básicos até tópicos avançados.
 
