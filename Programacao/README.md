@@ -1,6 +1,6 @@
 # Programação
 
-![Imagem Programação](link_para_sua_imagem_programacao)
+![Imagem Programação](./images/qual-e-a-melhor-linguagem-de-programacao.png)
 
 Aprenda sobre diversas linguagens de programação e desenvolvimento de software aqui.
 
