@@ -1,6 +1,6 @@
 # Hardwares e Softwares
 
-![Imagem Hardwares e Softwares](./images/hardwares_e_softwares.jpg)
+![Imagem Hardwares e Softwares](./images/hardware-y-software-que-son-y-en-que-se-diferencian.png)
 
 Neste diretório, explore informações sobre hardware e software, desde conceitos básicos até tópicos avançados.
 
