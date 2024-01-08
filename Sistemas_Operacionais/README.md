@@ -10,5 +10,5 @@ Explore os principais sistemas operacionais e suas funcionalidades neste diretó
 - [Linux](link_para_linux/README.md)
 - [macOS](link_para_macos/README.md)
 
-[<< Voltar para WildStacks](../../README.md)
+[<< Voltar para WildStacks](../README.md)
 

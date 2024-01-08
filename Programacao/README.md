@@ -10,5 +10,5 @@ Aprenda sobre diversas linguagens de programação e desenvolvimento de software
 - [Python](link_para_python/README.md)
 - [Java](link_para_java/README.md)
 
-[<< Voltar para WildStacks](../../README.md)
+[<< Voltar para WildStacks](../README.md)
 
