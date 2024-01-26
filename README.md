@@ -12,15 +12,15 @@ Um universo de conhecimento em um só lugar. Explore, aprenda e mergulhe na dive
 
 **Tecnologias da Informação**
 > - **[Linguagens de Programação](./Linguagens_de_Programacao/README.md)**
->   > - [JavaScript](#)
->   >   - [ReactJS](#)
->   >     - [Next.js](#)
->   >   - [Node.js](#)
->   >     - [Nest.js](#)
->   >   - [ORM Prisma](#)
->   > - [Dart](#)
->   >   - [Flutter](#)
->   > - [Python](#)
+>   - [JavaScript](#)
+>     - [ReactJS](#)
+>       - [Next.js](#)
+>     - [Node.js](#)
+>       - [Nest.js](#)
+>     - [ORM Prisma](#)
+>   - [Dart](#)
+>     - [Flutter](#)
+>   - [Python](#)
 
 > - **[Hardwares e Softwares](./Hardwares_e_Softwares/README.md)**
 >   - [Componentes de Hardware](#)
